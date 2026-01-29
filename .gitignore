@@ -28,3 +28,5 @@ Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/UnrealEditor-Mob
 Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/UnrealEditor-MobileFSR.lib
 Intermediate/Build/Win64/x64/UnrealEditor/Development/MobileFSR/UnrealEditor-MobileFSR.lib.rsp
 Intermediate/Build/Win64/x64/UnrealEditorGPF/Development/MobileFSR/Definitions.MobileFSR.h
+/Binaries
+/Intermediate
